@@ -1,0 +1,16 @@
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.exe
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.deps.json
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.runtimeconfig.json
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.dll
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\bin\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.pdb
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.x.resources
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.csproj.GenerateResource.cache
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.AssemblyInfoInputs.cache
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.AssemblyInfo.cs
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.csproj.CoreCompileInputs.cache
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.dll
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\refint\SimpleFormsAppWithCheckedListBox1.dll
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.pdb
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\SimpleFormsAppWithCheckedListBox1.genruntimeconfig.cache
+C:\Users\oo127\source\repos\SimpleFormsAppWithCheckedListBox1\SimpleFormsAppWithCheckedListBox1\obj\Debug\net8.0-windows\ref\SimpleFormsAppWithCheckedListBox1.dll
