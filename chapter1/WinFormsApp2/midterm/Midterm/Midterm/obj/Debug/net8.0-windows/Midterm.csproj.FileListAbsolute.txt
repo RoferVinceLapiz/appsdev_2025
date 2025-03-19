@@ -1,0 +1,16 @@
+C:\Users\oo127\source\repos\Midterm\Midterm\bin\Debug\net8.0-windows\Midterm.exe
+C:\Users\oo127\source\repos\Midterm\Midterm\bin\Debug\net8.0-windows\Midterm.deps.json
+C:\Users\oo127\source\repos\Midterm\Midterm\bin\Debug\net8.0-windows\Midterm.runtimeconfig.json
+C:\Users\oo127\source\repos\Midterm\Midterm\bin\Debug\net8.0-windows\Midterm.dll
+C:\Users\oo127\source\repos\Midterm\Midterm\bin\Debug\net8.0-windows\Midterm.pdb
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.Form1.resources
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.csproj.GenerateResource.cache
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.AssemblyInfoInputs.cache
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.AssemblyInfo.cs
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.dll
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\refint\Midterm.dll
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.pdb
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\Midterm.genruntimeconfig.cache
+C:\Users\oo127\source\repos\Midterm\Midterm\obj\Debug\net8.0-windows\ref\Midterm.dll
